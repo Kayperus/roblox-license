@@ -1,1 +1,8 @@
-
+{
+  "allowed_creators": [
+    {
+      "id": 2035620,
+      "type": "User"
+    }
+  ]
+}
